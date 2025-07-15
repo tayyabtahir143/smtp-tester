@@ -11,6 +11,7 @@ A simple web-based SMTP testing tool built in Python (Flask). Useful for quickly
 - No encryption
 - STARTTLS
 - SSL/TLS
+  
 ✅ Optional SMTP authentication  
 ✅ Shows high-level error messages  
 ✅ Retains form data after sending  
